@@ -11,7 +11,7 @@ UUID implementation for GWT
     <dependency>
       <groupId>com.google.gwt</groupId>
       <artifactId>gwt-uuid</artifactId>
-      <version>2.8.2</version>
+      <version>2.9.0</version>
     </dependency>
     ```
   3. Import GWT module :
